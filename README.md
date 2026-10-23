@@ -59,3 +59,4 @@ Com a aplicação rodando:
 | `DELETE` | `/treinos/{id}` | Remove um treino |
 
 `User` existe como entidade e repositório (`UserRepository`), mas ainda sem endpoint próprio — isso é construído ao longo do curso.
+# runner-circle-backend
